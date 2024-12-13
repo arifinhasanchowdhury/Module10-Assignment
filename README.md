@@ -28,10 +28,10 @@ Follow these instructions to complete the assignment:
 1) Make an index.js file in your assignment project
 2) Make sure all functions that you created in the index.js file and you have to call every function so that we can see the output in terminal.
 
-# Output
-Tested
+# Output Tested
+
 Enter two numbers separated by space for calculateDifference: 10 3
-Difference: 7
+Difference: 7 
 
 Enter a number to check if it's odd: 9
 Is Odd: true
